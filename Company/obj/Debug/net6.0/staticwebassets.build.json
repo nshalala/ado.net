@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ZOna7bmJ0yMGCqn/IPGBojzVzw9idIaTV9iLisPonfU=",
+  "Source": "Company",
+  "BasePath": "_content/Company",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Company\\wwwroot",
+      "Source": "Company",
+      "ContentRoot": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\css\\styles.css",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\js\\scripts.js",
+      "SourceId": "Company",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nshal\\Desktop\\Company\\Company\\wwwroot\\",
+      "BasePath": "_content/Company",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}
